@@ -18,7 +18,7 @@
   opacity: 1;
   cursor: pointer;
 }
-.common-modal-heading{
+.common-modal-heading {
   margin-bottom: 50px;
 }
 .common-modal-heading h2 {
@@ -34,7 +34,7 @@
   opacity: 0.5;
 }
 /* career modal */
-.job-description{
+.job-description {
   margin-bottom: 50px;
 }
 .job-description h3 {
@@ -93,9 +93,6 @@
   -webkit-box-shadow: unset;
   box-shadow: unset;
   padding-left: 0px;
-}
-.contact-popup .message .form-control {
-  border-bottom:1px solid #d2d2d2;
 }
 .contact-popup .form-control:focus {
   -webkit-box-shadow: unset;

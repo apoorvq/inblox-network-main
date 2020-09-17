@@ -63,8 +63,7 @@
 }
 
 .all-rights {
-  display: inline-block;
-  margin-right: 102px;
+  text-align: center;
 }
 .all-rights p {
   font-family: 'avenirnext-regular';
@@ -72,29 +71,12 @@
   font-size: 20px;
   color: #ffffff;
 }
-.social-link {
-  display: inline-block;
-}
-
-.social-link ul li {
-  display: inline-block;
-  margin-right: 30px;
-}
-.social-link ul li a {
-  font-family: 'avenirnext-medium';
-  font-size: 16px;
-  color: #ffffff;
-  text-decoration: none;
-}
-.social-link ul li:hover {
-  opacity: 0.5;
-}
 
 @media only screen and (max-width: 991px) {
   /* footer */
   .footer-content {
     width: 100%;
-}
+  }
   .copy-rights {
     width: 90%;
   }
